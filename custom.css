@@ -1,0 +1,41 @@
+*{
+    /* border: 1px solid red; */
+}
+body{
+    background-color: lightcoral;
+    background-image: url(assets/cool.png);
+    color: white;
+    font-size: 1.2em;
+}
+
+/* navbar style */
+.topnavbar{
+    background-color:darkblue;
+    height: 85px;
+}
+.marvin{
+    font-size: 32px;
+    color: white;
+}
+
+/* End navbar style */
+
+.header1{
+    font-size: 32px;
+}
+
+.btn-primary1{
+    color: white;
+}
+
+.welcome{
+    text-align: center;
+}
+
+.marvinPic{
+    border-radius: 50%;
+}
+
+.footer{
+    background-color: darkblue;
+}
