@@ -40,13 +40,15 @@ body{
     background-color: darkblue;
 }
 
-.github{
+.github,
+.pdf{
     border: 1px solid black;
     padding: 5px    ;
     background-color: darkblue;
 }
 
 .portfolio,
-.welcome{
+.welcome,
+.pdf{
     margin-top: 25px;
 }
