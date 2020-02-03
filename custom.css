@@ -39,3 +39,14 @@ body{
 .footer{
     background-color: darkblue;
 }
+
+.github{
+    border: 1px solid black;
+    padding: 5px    ;
+    background-color: darkblue;
+}
+
+.portfolio,
+.welcome{
+    margin-top: 25px;
+}
